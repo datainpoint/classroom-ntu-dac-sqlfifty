@@ -32,6 +32,6 @@ SQL Fifty for Data Analytics Club, NTU 2021.
 
 ## SQL good reads
 
+- [SQL的五十道練習題：初學者友善的資料庫入門](https://hahow.in/cr/sqlfifty)
 - [Learning SQL](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)
 - [Language of SQL](https://www.amazon.com/Language-SQL-Learning-Larry-Rockoff-ebook/dp/B01JJ61TCI/)
-- SQL的五十道練習題：初學者友善的資料庫入門
